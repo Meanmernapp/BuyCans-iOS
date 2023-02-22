@@ -2,7 +2,7 @@
 //  CansViewController.swift
 //  Apple Photos
 //
-//  Created by HaiDer's Macbook Pro on 25/01/2022.
+//  Created by Shoaib's Macbook Pro on 25/01/2022.
 //
 
 import UIKit

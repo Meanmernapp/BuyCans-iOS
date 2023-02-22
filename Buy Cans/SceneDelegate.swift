@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Buy Cans
 //
-//  Created by HaiDeR AwAn on 22/02/2023.
+//  Created by Shoaib Hassan on 22/02/2023.
 //
 
 import UIKit

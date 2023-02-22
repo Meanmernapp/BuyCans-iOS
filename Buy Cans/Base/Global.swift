@@ -2,7 +2,7 @@
 //  Global.swift
 //  Vocab
 //
-//  Created by HaiDer's Macbook Pro on 26/12/2021.
+//  Created by Shoaib's Macbook Pro on 26/12/2021.
 //
 
 import Foundation
